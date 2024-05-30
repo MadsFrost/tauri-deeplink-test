@@ -1640,6 +1640,8 @@ name = "md"
 version = "0.0.0"
 dependencies = [
  "http 1.1.0",
+ "regex",
+ "reqwest",
  "serde",
  "serde_json",
  "tauri",
